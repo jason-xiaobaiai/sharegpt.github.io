@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28ddfa13","path":"/service/","title":"其他服务","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"代理申请","slug":"代理申请","link":"#代理申请","children":[]},{"level":2,"title":"专享定制","slug":"专享定制","link":"#专享定制","children":[]}],"git":{},"filePathRelative":"service/README.md"}');export{e as data};
