@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-744520e2","path":"/buy/","title":"如何购买","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"免费试用","slug":"免费试用","link":"#免费试用","children":[]},{"level":2,"title":"如何购买","slug":"如何购买-1","link":"#如何购买-1","children":[]}],"git":{},"filePathRelative":"buy/README.md"}');export{e as data};
